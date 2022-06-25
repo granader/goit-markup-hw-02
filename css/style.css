@@ -131,11 +131,12 @@ h1,h2,h3,h4,h5,h6,p,ul{margin: 0px;}
 .logo{
 	display: block;
 	margin-right: 93px;
-	font-family: 'Raleway';
+	font-family: 'Raleway', sans-serif;
 	font-size: 26px;
 	font-weight: 700;
 	color: #000000;;
 	line-height: 31px;
+	color: var(--h-text-color);
 	font-size: 26px;
 	text-decoration: none;
 }
