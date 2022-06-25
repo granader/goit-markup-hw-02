@@ -10,15 +10,15 @@
 *{
 	box-sizing: border-box;
 }
-*, ::before, ::after{
+/* *, ::before, ::after{
 	box-sizing: border-box;
-}
+} */
 img{display: block;}
 body{
 
-	font-family:'Roboto' ;
+	font-family:'Roboto', sans-serif ;
 	font-style: normal;
-	font-size: 16px;
+	font-size: 14px;
 	color: var(--title-color);
 	background-color: var(--white-color);
 	letter-spacing: 0.03em;
