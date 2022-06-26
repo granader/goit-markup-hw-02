@@ -227,7 +227,7 @@ h1,h2,h3,h4,h5,h6,p,ul{margin: 0px;}
 }
 
 .container > .button {
-	/* margin-bottom: 200px; */
+	margin-bottom: 200px;
 }
 
 /* !  Peculiarities*/ 
